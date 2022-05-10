@@ -1,0 +1,6 @@
+while (True):
+    user = input("hanif tzy: ")
+    print("hallo nyet", user, "salam kenal ^_^")
+    ulang = input("mau ku kentod? (Y/N): ")
+    if (ulang != Y) or (ulang != y):
+        break
